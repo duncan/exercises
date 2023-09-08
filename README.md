@@ -1,1 +1,5 @@
-# exercism
+# Exercises
+
+## TypeScript
+
+`bun test`
